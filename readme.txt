@@ -1,7 +1,8 @@
 Scraping a Particular Website
 
 A not-for-profit company asked me to find the contact person and the mailing address of
-the Community Foundations of Canada (CFC) sites across the nation.
+the Community Foundations of Canada (CFC) sites across the nation, as they want to reach
+out to them.
 
 Doing this task manually, this is, by copy-pasting each required field into a spreadsheet,
 would mean doing this 195 (foundations) * 11 (fields) = 2145 times. So my next thought was
