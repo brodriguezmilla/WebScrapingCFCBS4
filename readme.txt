@@ -19,7 +19,7 @@ address, and put all the information in a special format in a spreadsheet.
 
 Doing this task manually, by copy-pasting each required field into the spreadsheet, would
 mean doing this 195 (foundations) * 11 (fields) = 2145 times! So my next thought was to
- automate the procedure by scraping the CFC website.
+automate the procedure by scraping the CFC website.
 
 Here is the code used to scrape their website, get the requested information, and write it
 in the format requested into a CSV file.
