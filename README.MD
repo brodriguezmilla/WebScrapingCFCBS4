@@ -12,7 +12,7 @@ As an example, I use a webpage that has a consistent HTML structure, but this ap
 can be generalized. While there are some frameworks, such as Scrapy, that can provide 
 such service, I decided to this as a learning experience.
 
-## The Use Case 
+## The Use Case 
 
 A not-for-profit organization wants to reach out to the Community Foundations of Canada
 (CFC) sites across the nation. They asked me to find each contact person and their mailing 
